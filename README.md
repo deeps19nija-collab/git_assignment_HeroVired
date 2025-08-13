@@ -18,7 +18,3 @@ This project demonstrates Git branching, bug fixing, feature development, and re
 ```bash
 git clone https://github.com/<your-username>/git_assignment_HeroVired.git
 cd git_assignment_HeroVired
-
-**Run the Application**
-
-python calculator.py
