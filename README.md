@@ -51,11 +51,12 @@ python calculator.py
 - **v2.0** – Added square root feature and divide-by-zero fix.
 
 ## Example Output
-16 + 4 = 20
-16 - 4 = 12
-16 * 4 = 64
-16 / 4 = 4.0
-The square root of 25 = 5.0
+16 + 4 = 20  
+16 - 4 = 12  
+16 * 4 = 64  
+16 / 4 = 4.0  
+The square root of 25 = 5.0  
+
 
 
 
